@@ -187,6 +187,14 @@ footer {
         margin-top: 20px;
     }
 
+    .div-text p {
+        font-size: 18px;
+    }
+    
+    .div-text h2 {
+        font-size: 22px;
+    }
+
 }
 
 /*----------------------------------------*/
